@@ -10,4 +10,5 @@ Initial E-Commerce Profitability Analysis, Develop a basic profitablity dashboar
 
 Introduction to Power BI, September 28, 2026 
 [View Live DataCamp Certificate] https://www.datacamp.com/completed/statement-of-accomplishment/course/74a35aef866f35ae780698972ba4c0476babbccf?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa
+
 [View Tableau Story] https://public.tableau.com/views/PowerBI-DataCampTrainingCertificatesTranTran/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
