@@ -7,3 +7,5 @@ Welcome to my BNAN 430 portfolio.
 Below is my completed Anthropic AI Fluency: Framework & Foundations certificate.
 
 Initial E-Commerce Profitability Analysis, Develop a basic profitablity dashboards and explain your design, a link to your published Tableau workbook [https://public.tableau.com/app/profile/tran.tran5807/viz/AdvancingTableauandExcel/ExploratoryDash]. If I were doing it again. I'd of planned earlier and spend more time cleaning it up. 
+
+course name, the date you completed it, a,https://public.tableau.com/views/PowerBI-DataCampTrainingCertificatesTranTran/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
