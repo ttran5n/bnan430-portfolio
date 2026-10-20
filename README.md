@@ -26,3 +26,5 @@ I believe I am ready to contribute to business intelligence work at Southwest be
 I would still choose Excel for quick checks and smaller datasets, Tableau when I need to tell a clear visual story, and Power BI when Southwest needs interactive reports that filter and update across different views. One skill I still need to develop is publishing and maintaining reports in Power BI Service. I have practiced building reports in training, but not maintaining one for coworkers. To close this gap, I plan to publish a practice report, test data refreshes, and ask others to review its usability. 
 
 
+Card Portfolio Review – Contactless Readiness: Which non-contactless cards should Bear Down Bank prioritize for early replacement to improve customer convenience while minimizing unnecessary costs? If I did this project again, I would improve the chart labels and highlight my recommended replacement group more clearly so decision-makers could understand the results faster.
+[View Tableau Story] https://public.tableau.com/views/Card_Porfolio_Review_TranTran/ExplanatoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
