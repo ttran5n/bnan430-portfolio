@@ -28,3 +28,6 @@ I would still choose Excel for quick checks and smaller datasets, Tableau when I
 
 Card Portfolio Review – Contactless Readiness: Which non-contactless cards should Bear Down Bank prioritize for early replacement to improve customer convenience while minimizing unnecessary costs? If I did this project again, I would improve the chart labels and highlight my recommended replacement group more clearly so decision-makers could understand the results faster.
 [View Tableau Story] https://public.tableau.com/views/Card_Porfolio_Review_TranTran/ExplanatoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Card Growth Analysis – Wildcat Rewards Offer: Which specific customer group should Bear Down Bank target for its single pre-approved pilot mailing to maximize conversion under Credit Risk's guardrails? If I did this project again, I would add a percentage label callout directly on the chart to make it instantly clear that Gen X accounts for 35% of all pre-approved Texas customers.
+[View Tableau Story] https://public.tableau.com/views/CardGrowthAnalysis_TranTran/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
