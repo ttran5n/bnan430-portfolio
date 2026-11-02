@@ -31,3 +31,10 @@ Card Portfolio Review – Contactless Readiness: Which non-contactless cards sho
 
 Card Growth Analysis – Wildcat Rewards Offer: Which specific customer group should Bear Down Bank target for its single pre-approved pilot mailing to maximize conversion under Credit Risk's guardrails? If I did this project again, I would add a percentage label callout directly on the chart to make it instantly clear that Gen X accounts for 35% of all pre-approved Texas customers.
 [View Tableau Story] https://public.tableau.com/views/CardGrowthAnalysis_TranTran/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
+
+Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: prioritize eligible Gen X customers in Texas for the Wildcat Rewards Card pilot mailing.
+[Work(PDF)]((https://github.com/user-attachments/files/34252702/TranTran_DataStorytelling.1.pdf)
+[Adobe Express] (https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:1ad7f957-9a89-538b-83b2-05e17e12cf5f?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+Design choice: I used a bar chart to compare eligible customers across generations because it clearly shows Gen X as the largest group in Texas. I removed the geographic map from my earlier Tableau dashboard to reduce visual clutter and help the executive focus on the most important data for the mailing decision.
+Training completed: [November 1, 2026]
