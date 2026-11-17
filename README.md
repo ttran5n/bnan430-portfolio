@@ -38,3 +38,15 @@ Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: prioritize el
 [Adobe Express] (https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:1ad7f957-9a89-538b-83b2-05e17e12cf5f?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
 Design choice: I used a bar chart to compare eligible customers across generations because it clearly shows Gen X as the largest group in Texas. I removed the geographic map from my earlier Tableau dashboard to reduce visual clutter and help the executive focus on the most important data for the mailing decision.
 Training completed: [November 1, 2026]
+
+
+November 16, 2026 · Product Pitch with Generative AI in Adobe Express
+Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week first phase to test the Wildcat Rewards offer with eligible Gen X customers in Texas.
+
+[trantran_product_pitch.pdf.pdf](https://github.com/user-attachments/files/34948959/trantran_product_pitch.pdf.pdf)
+[Adobe Express] https://express.adobe.com/id/urn:aaid:sc:VA6C2:0e15e110-84e6-465b-ac67-6253716d14a5?taskID=presentation&templateTaskId=presentation&pageId=7ec6cbe2-6446-4c2f-9b26-6256d26cbbf9&tab=all
+
+Toughest objection: "Why invest in Gen X when only 24 eligible customers were identified?" Slide 6 addresses this concern by proposing a limited pilot to measure actual customer response and evaluate feasibility before committing to a broader rollout.
+
+AI use: OpenAI ChatGPT (GPT-6), November 16, 2026, assisted with grammar refinement
+Training completed: November 16, 2026
